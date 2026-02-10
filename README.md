@@ -32,7 +32,6 @@ EldenRing/
 ├── extract_lore.py                # Stage 1: HTML lore extraction
 ├── fuse_data.py                   # Stage 2: Data fusion & enrichment
 ├── generate_qa.py                 # Stage 3: QA pair generation
-├── inspect_csvs.py                # Utility: CSV structure auditing
 ├── master_lore.json               # Extracted lore library
 ├── elden_ring_enriched.json       # Enriched intermediate data
 ├── elden_ring_final_train.jsonl   # Final QA dataset (4,000+ pairs)
