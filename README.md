@@ -4,8 +4,8 @@ A fine-tuned Phi-2 (2.7B) model for answering questions about Elden Ring, includ
 
 ## 🔗 Quick Links
 
-- **Model (HuggingFace):** [your-username/elden-ring-phi2-qlora](https://huggingface.co/your-username/elden-ring-phi2-qlora)
-- **Dataset (HuggingFace):** [your-username/elden-ring-qa-dataset](https://huggingface.co/datasets/your-username/elden-ring-qa-dataset)
+- **Model (HuggingFace):** [ArenaRune/elden-ring-phi2-qlora](https://huggingface.co/ArenaRune/elden-ring-phi2-qlora)
+- **Dataset (HuggingFace):** [ArenaRune/elden-ring-qa-dataset](https://huggingface.co/datasets/ArenaRune/elden-ring-qa-dataset)
 - **Training Notebook:** [EldenRing_FineTuning.ipynb](./EldenRing_FineTuning.ipynb)
 
 ## 📊 Results
